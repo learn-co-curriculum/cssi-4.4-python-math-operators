@@ -40,7 +40,7 @@ This doesn't work:
 NOOOOO! We have to do something!
 
 #Student Practice: Decimals and Floats
-What value would you place in the cake variable so that python returns a decimal or float?
+If we only have one cake, what would you place in the cake variable so that python returns a decimal or float?
 ```
 >>> cake = ??
 >>> students = 35
