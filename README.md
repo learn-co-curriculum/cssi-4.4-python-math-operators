@@ -20,14 +20,12 @@ There are some caveats about fractions and decimals numbers. Sometimes you'd exp
 >>> 5/2
 2
 ```
-What? Why is that happening? Shouldn't it be 2.5? Python treats some numbers as if fractions didn't exist. It doesn't even round!
+What? Why is that happening? Shouldn't it be 2.5? Python treats some numbers as if fractions didn't exist. It doesn't even round! Why is this? I thought computers were supposed to be good at math!?!
 ```
->>> 10/6
-1
+>>> 5.0/2.0
+2.5
 ```
-Why is this? I thought computers were supposed to be good at math!?!
-
-It turns out that python is trying to be your friend - when you give it integers, it wants to give you integers right back.
+It turns out that python is trying to be your friend - when you give it integers, it wants to give you integers right back. When it gets a **decimal or float** it returns a decimal/float.
 
 However, if we were cutting slices of a cake, that would be a whole different story. We shouldn't let any piece of cake go to waste, and most people are fine with fractional slices of cake. What can we do to make sure that when we divide our cake among all the students, we get some and not 0?
 
