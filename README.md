@@ -1,8 +1,4 @@
----
-tags: cssi, basic python, math operators
-level: 1
-languages: python
----
+
 #Python Math Operations
 
 #Objectives:
