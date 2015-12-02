@@ -28,3 +28,5 @@ It turns out that python is trying to be your friend - when you give it integers
 >>> 3 % 3
 0
 ```
+
+<a href='https://learn.co/lessons/cssi-4.4-python-math-operators' data-visibility='hidden'>View this lesson on Learn.co</a>
