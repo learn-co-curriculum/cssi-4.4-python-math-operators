@@ -29,4 +29,4 @@ It turns out that python is trying to be your friend - when you give it integers
 0
 ```
 
-<a href='https://learn.co/lessons/cssi-4.4-python-math-operators' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.4-python-math-operators' title='Python Math Operations'>Python Math Operations</a> on Learn.co and start learning to code for free.</p>
